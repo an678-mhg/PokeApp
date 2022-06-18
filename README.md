@@ -2,6 +2,11 @@
 
 Live Demo: [https://poke-app-orcin.vercel.app/](https://poke-app-orcin.vercel.app/)
 
-# Preview
+### Preview
 
 Updating....
+
+### Technology
+- Reactjs
+- Masterial UI
+- Poke API
